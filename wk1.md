@@ -8,4 +8,5 @@ Groups: [Yara, Asa], [Sayan, Sethu, Santiago]
 
 2. Have one member of your team create a pull request on this repo to submit a link to your work here:
 - [Yara, Asa]:
+- https://docs.google.com/document/d/13aG-IWGBd9PDKFjSsa0Eys5biBCtVcZ6srRYw85lFY0/edit?usp=sharing
 - [Sayan, Sethu, Santiago]: 
