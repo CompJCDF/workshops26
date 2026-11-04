@@ -20,9 +20,9 @@ Submit a pull request to **this** workshop's repository adding a link to your pa
 
 ### Team [Sethu, Asa]
 
-[Page]()
+[Page](): https://thesethu.github.io/asasethu.github.io/
 
-[Code]()
+[Code]() https://github.com/thesethu/asasethu.github.io
 
 
 ### Team 2 [Sayan, Yara, Santiago]
