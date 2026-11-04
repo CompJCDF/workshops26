@@ -2,6 +2,8 @@
 
 Teams:
 
+Groups: [Yara, Asa*], [Sayan, Sethu*, Santiago]
+
 This week we are going to make a map, and create a github pages site to put that map on.
 
 ## Data
@@ -14,11 +16,9 @@ Both Flourish and DataWrapper have some nice mapping templates, or you can code 
 
 Embed the maps you create in a webpage, and **create a new repository** on github to put the code in. Publish this webpage using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
-Submit a pull request to **this** workshops repository adding a link to your page and to the code repository below:
-
+Submit a pull request to **this** workshop's repository adding a link to your page and to the code repository below:
 
 ### Team 1
-
 
 [Page]()
 
