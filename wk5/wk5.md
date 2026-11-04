@@ -27,6 +27,6 @@ Submit a pull request to **this** workshop's repository adding a link to your pa
 
 ### Team 2 [Sayan, Yara, Santiago]
 
-[Page]()
+[Page](): https://wannabecoder45.github.io/uk-price/
 
-[Code]()
+[Code](): https://github.com/wannabecoder45/uk-price
