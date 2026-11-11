@@ -26,18 +26,11 @@ Embed the maps you create in a webpage, and create a new repository on github to
 Submit a pull request to *this* workshops repository adding a link to your page and to the code repository below:
 
 
-### [Sayan, Asa]
+### [Sayan, Asa] [Sethu, Santiago, Yara]
 
-[Page]()
+[Page](): https://thesethu.github.io/workshopweek6/
 
-[Code]()
-
-
-### [Sethu, Santiago, Yara]
-
-[Page]()
-
-[Code]()
+[Code](): https://github.com/thesethu/workshopweek6
 
 
 ### Martin
