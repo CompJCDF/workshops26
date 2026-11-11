@@ -1,12 +1,12 @@
 # Untidy Mapping
 
-Teams:
+Teams: [Sayan, Asa], [Sethu, Santiago, Yara]
 
 This week we're going to make a map again, and host it on github pages again. However, this time the data is not going to be as easy to use for mapping as it will not be supplied with values for administrative areas, but as a set of records with coordinates instead.
 
 ## Data
 
-This week we have south wales crime data for the last year, and we would like to produce some maps of this data, as we did last week. However, rather than having a neat value for each administrative area, we have a big list of records, most of which have geographic coordinates and/or a street name, so we are going to have to do some more work to get this work onto a map.
+This week we have south Wales crime data for the last year, and we would like to produce some maps of this data, as we did last week. However, rather than having a neat value for each administrative area, we have a big list of records, most of which have geographic coordinates and/or a street name, so we are going to have to do some more work to get this work onto a map.
 
 We could:
 1. use a shape at each point, which could be coloured or sized (or both) according to the data
@@ -26,15 +26,14 @@ Embed the maps you create in a webpage, and create a new repository on github to
 Submit a pull request to *this* workshops repository adding a link to your page and to the code repository below:
 
 
-### Team 1
-
+### [Sayan, Asa]
 
 [Page]()
 
 [Code]()
 
 
-### Team 2
+### [Sethu, Santiago, Yara]
 
 [Page]()
 
