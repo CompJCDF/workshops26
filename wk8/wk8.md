@@ -28,3 +28,4 @@ https://www.goodreads.com/list/show/4902.YA_Novels_of_2012 (Yara)
 ### Final work: 
 
 Asa, Sethu, Yara: https://github.com/thesethu/workshops26/blob/main/wk8/Wk%208%20AsaSethuYara.ipynb
+
