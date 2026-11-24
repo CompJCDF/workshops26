@@ -24,3 +24,7 @@ https://www.goodreads.com/list/show/4902.YA_Novels_of_2012 (Yara)
 **Info**
 
 [Oscars 2018: Lady Bird is 'most overrated' nominated film by critics](https://www.bbc.co.uk/news/entertainment-arts-43146027)
+
+### Final work: 
+
+Asa, Sethu, Yara: https://github.com/thesethu/workshops26/blob/main/wk8/Wk%208%20AsaSethuYara.ipynb
